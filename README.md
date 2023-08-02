@@ -46,3 +46,8 @@ posição passará a ser o início da fila.</p>
   <li>https://www.cos.ufrj.br/~rfarias/cos121/pilhas</li>
   <li>https://www.cos.ufrj.br/~rfarias/cos121/filas</li>
 </ul>
+<p>Tecnoligas/Linguagens utilizadas: </p>
+<ul>
+  <li>C</li>
+</ul>
+<p>Observação: Como um defensor do clean code, todo o projeto está comentado e devidamente indentado, aqui é Cauã falando e até a próxima :)</p>
